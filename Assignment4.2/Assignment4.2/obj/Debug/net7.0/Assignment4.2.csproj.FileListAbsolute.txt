@@ -1,0 +1,15 @@
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\bin\Debug\net7.0\Assignment4.2.exe
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\bin\Debug\net7.0\Assignment4.2.deps.json
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\bin\Debug\net7.0\Assignment4.2.runtimeconfig.json
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\bin\Debug\net7.0\Assignment4.2.dll
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\bin\Debug\net7.0\Assignment4.2.pdb
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.csproj.AssemblyReference.cache
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.AssemblyInfoInputs.cache
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.AssemblyInfo.cs
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.csproj.CoreCompileInputs.cache
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.dll
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\refint\Assignment4.2.dll
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.pdb
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\Assignment4.2.genruntimeconfig.cache
+C:\Users\dac\Downloads\.NET\Batch01\Assignment4.2\Assignment4.2\obj\Debug\net7.0\ref\Assignment4.2.dll

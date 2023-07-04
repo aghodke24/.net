@@ -1,0 +1,15 @@
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.csproj.AssemblyReference.cache
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.AssemblyInfoInputs.cache
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.AssemblyInfo.cs
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\bin\Debug\net7.0\EmployeeArchitecture.exe
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\bin\Debug\net7.0\EmployeeArchitecture.deps.json
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\bin\Debug\net7.0\EmployeeArchitecture.runtimeconfig.json
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\bin\Debug\net7.0\EmployeeArchitecture.dll
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\bin\Debug\net7.0\EmployeeArchitecture.pdb
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.dll
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\refint\EmployeeArchitecture.dll
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.pdb
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\EmployeeArchitecture.genruntimeconfig.cache
+C:\Users\dac\Downloads\.NET\Batch01\EmployeeArchitecture\EmployeeArchitecture\obj\Debug\net7.0\ref\EmployeeArchitecture.dll
